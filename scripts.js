@@ -14,8 +14,5 @@ buttons.forEach((btn) => {
     setTimeout(() => {
       img.classList.remove("changing")
     }, 200)
-    
-
-    
   })
 })
